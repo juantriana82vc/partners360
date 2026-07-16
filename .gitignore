@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Storage
+storage/*
+!storage/.gitkeep
+
+# Backups
+backups/*
+!backups/.gitkeep
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
