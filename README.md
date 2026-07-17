@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Partners360
 
 Plataforma de gestión integral del canal tradicional.
@@ -13,3 +14,7 @@ Plataforma de gestión integral del canal tradicional.
 - storage: archivos temporales
 - logs: registros de aplicación
 - backups: copias temporales
+=======
+# partners360
+Partners360 Platform
+>>>>>>> origin/main
